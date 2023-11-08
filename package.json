@@ -1,0 +1,27 @@
+{
+  "name": "primerproyecto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dan-ala/primer-proyecto-Lit-Element.git"
+  },
+  "author": "Daniel Alarcón",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dan-ala/primer-proyecto-Lit-Element/issues"
+  },
+  "homepage": "https://github.com/Dan-ala/primer-proyecto-Lit-Element#readme",
+  "dependencies": {
+    "@vaadin/router": "^1.7.5",
+    "@vaadin/vaadin-charts": "^23.1.16",
+    "3.0.0": "^3.0.0",
+    "json-server": "^0.17.4",
+    "lit-element": "^3.3.3",
+    "polymer": "^0.5.0"
+  }
+}
